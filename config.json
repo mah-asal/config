@@ -1,5 +1,10 @@
 {
   "public": "https://f56.ir",
   "edge": "https://edge.tv-92.com",
-  "marketing": "https://mah-asal.info"
+  "marketing": "https://mah-asal.info",
+  "apk": {
+    "social": {
+      "direct": "https://s3.tv-92.com/app/release/app-social-latest.apk"
+    }
+  }
 }
